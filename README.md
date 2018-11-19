@@ -1,8 +1,8 @@
 # Challenge-2
-#Responsive Web Design Projects - Build a Survey Form
-##Objective: Build a Survey project that is functionally similar to this:
+# Responsive Web Design Projects - Build a Survey Form
+## Objective: Build a Survey project that is functionally similar to this:
 
-##Fulfill the below user stories. Feel free to give it your own personal style.
+## Fulfill the below user stories. Feel free to give it your own personal style.
 
 Remember this project is meant only to measure the skills you acquired in your ALC journey and does not in anyway affect your qualification to enter into the Andela bootcamp.
 
